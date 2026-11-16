@@ -1,0 +1,12 @@
+# AI-first production economics
+All numbers below are workload assumptions, not vendor measurements or quotes. Model order by cost: Budget/Lean (10% moving AI video), Balanced/Hybrid (30%), Premium/fully generative (70%) of a 10-minute episode: 60/180/420 usable motion seconds; the remainder uses original AI stills with designed camera motion, not stock slides.
+
+Let p = usable seconds ÷ generated seconds (measure in pilot); r = vendor cost per generated second; q = cost per generated still; n = stills. Video spend = target usable seconds × r ÷ p. Cost per usable second = r ÷ p. Total AI assets = video spend + n×q + retries/credits not in r. Add narration, music/SFX, editing, subscription/API charges, tax/FX, and contingency separately. API versus subscription: compare actual billed pilot usage and plan limits; never add both for the same usage.
+
+Sensitivity only: p=25%, 40%, 60% implies video-generation seconds for Lean 240/150/100; Balanced 720/450/300; Premium 1680/1050/700. These yields are sensitivity assumptions, not measured success rates. A Runway Dev API pricing snapshot is documented in 10 Vendor Pricing and Scenario Calculations; rates permit output-only comparisons, not complete video budgets. Model-specific acceptance yield, output-duration limits, input-mode surcharges, commercial licensing and full episode cost remain unresolved.
+
+Cost per episode = monthly tool fees allocated to episode + generation/API credits + TTS/audio + storage/edit/render + admin; avoid double-counting subscriptions. Fully loaded adds founder hours × shadow wage. Monthly views to break even = max(0, monthly cost − other revenue) × 1,000 ÷ RPM. Before YPP, ads = €0. Old-plan €610 cash/€3,110 loaded costs imply only floor thresholds at assumed €5 RPM: 122,000/622,000 views; AI costs must be added.
+
+Pilot must log total generated seconds, usable seconds, attempts, rejected seconds, actual bills, and human hours. Use measured p and dated vendor quotes before approval. 2027 model pricing, output limits, and commercial terms remain open.
+
+Cycle time/capacity: no AI-first throughput was measured. Keep one 10-min episode/month as a quality-first pilot cap, not forecast. Capacity = floor(combined founder hours available/month ÷ measured human hours/episode); time prompt design, retries/curation, continuity repair, assembly and QA separately. Legacy 75/100/120h scenarios are not validated for this pipeline; replace with pilot time logs.

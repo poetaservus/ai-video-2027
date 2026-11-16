@@ -1,0 +1,6 @@
+# Main Plan — AI-first addendum
+Keep the existing weighted niche screen as subjective screening (82/81/78), not demand evidence; keep original-reporting differentiation, YPP/legal safeguards, roles, roadmap, stop-losses and conditional-pilot recommendation. Change the product definition to generative audiovisual storytelling: AI imagery/video, AI voice/music where licensed, and human-directed editorial production.
+
+Retire as AI-first facts: €320 variable cost, €1,660 pilot cash, €610 recurring cost, 100h per episode, and 122k/622k break-even views. Those calculations are internally correct for their legacy inputs, but the inputs describe manual graphics/stock and exclude incremental gen-video spend. Replace only after measured retry yields, official dated prices, rights review and time logs. Use the formulas and uncertainty in 01 and pilot mix in 02; preserve tax and YPP caveats in 04.
+
+Recommendation remains one capped pilot after written legal/collaboration clearance, not scaling or profitability assurance.

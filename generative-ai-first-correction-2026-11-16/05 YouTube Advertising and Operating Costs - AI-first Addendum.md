@@ -1,0 +1,6 @@
+# YouTube Advertising & Operating Costs — AI-first addendum
+Preserve the original's separation of paid promotion from creator ad earnings, its no-guarantee warning, RPM/CPM definitions, and official Google Ads budget mechanics. Do not change ad spend from €0 by default.
+
+Correction: €610/month and 122,000 views at assumed €5 RPM are legacy conventional-production figures. Add measured AI-first recurring fees and per-episode generation to cash cost before calculating break-even: views = (fixed overhead + AI video/image/audio + other episode costs − non-ad revenue)×1,000/RPM. Labor-adjusted views add founder hours×shadow rate. Before full YPP approval, assume €0 ads; paid campaign views are not organic validation. RPM values €2/€5/€8 remain sensitivities, not rates.
+
+Runway Dev API output-rate snapshot (including proxy rates for Veo/Kling) is documented in 10; it is not proof of model-owner commercial rights. The remaining subscriptions, licenses, orchestration costs, outputs and actual acceptance yields require current provider confirmation. Do not label any tool legally cleared. See 01 Production Economics and 04 Decision Addendum.

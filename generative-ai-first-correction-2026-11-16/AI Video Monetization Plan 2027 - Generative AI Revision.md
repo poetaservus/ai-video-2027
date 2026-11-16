@@ -1,0 +1,16 @@
+# AI Video Monetization Plan 2027 — Generative-AI-First Revision
+**Correction snapshot: 16 Nov 2026.** Versioned correction; all five original Markdown files remain untouched.
+
+## Decision
+The original operating model was wrong for the stated business: it budgeted manual animation, stock and conventional post-production. Retain the business-case niche screening (82/100) only as an analyst hypothesis, not measured demand. Replace the content factory with AI-generated audiovisual material directed by humans: original reporting, narrative, prompt/style direction, selection, fact-checking, edit and release QA stay human-owned. Quality before quantity; test one 10-minute pilot before scaling.
+
+## Three AI-first models
+Fully generative: 70% generated moving video; high prompt/retry/continuity risk. Hybrid: 30% generated video, remaining visuals are generated images with AI-assisted motion; recommended pilot test, not a quality claim. Budget-generative: 10% generated video, generated stills and restrained camera/mix moves; no generic stock slideshow.
+
+## Verified rate snapshot and modeled costs
+Runway Dev's official API pricing page (retrieved 16 Nov 2026; https://docs.dev.runwayml.com/guides/pricing/) lists $0.01/credit, Veo 3.1 no-audio at $0.20/generated second, Kling 3 Standard no-audio $0.09/s, Gen-4 Turbo $0.05/s, Gen-4 720p images $0.05 each. At assumed 40% usable yield, 10-min output-only model: Fully (420s video + 20 generated still attempts) ≈$211; Hybrid (180s + 60 still attempts) ≈$43.50; Budget (60s + 80 still attempts) ≈$11.50. Video-only costs are $210/$40.50/$7.50; derived ≈$21.10/$4.35/$1.15 per finished minute including these stills. See 10 for yield ranges and assumptions. Not full episode budgets: narration/music, subscriptions, storage, editing, tax/FX, input-video fees and any licensing are excluded; acceptance yield is not measured.
+
+## Conclusion and remaining gates
+These vendor-output costs alone are modest, but do not prove the whole episode or business profitable. Formula-only cash sensitivity: €290 legacy fixed monthly placeholder + USD media spend×EUR/USD rate + unpriced audio/editing/rights/storage. At assumed €5 RPM, break-even views = 200×that EUR cost; pre-full-YPP ads are zero. Old 100h×€25 labor is not revalidated; record pilot hours and add labor separately. Monthly capacity remains a one-video pilot plan, not proven throughput.
+
+Do not treat API platform pricing as the model owner’s license or full subscription price. YouTube monetization still depends on originality, rights and applicable synthetic-content disclosures; AI production is neither automatic approval nor disqualification. Original plan’s YPP and cross-border legal cautions remain; recheck official terms before 2027 launch. The vendor source verified here exposes per-credit rates but not all output limits/rights needed to choose a final model. Decision: run a capped, quote-checked hybrid pilot; make no scale/profit claim until provider rights, actual billed usage, measured usable yield, and full episode labor/cost are reviewed. Read 00 Index, 01 Economics, 02 Pilot Blueprint, 03 Source Audit, 04 Monetization, 05–09 source addenda and 10 pricing scenarios for the complete correction set. No website work was done.
