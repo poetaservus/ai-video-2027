@@ -3,13 +3,13 @@
 A static, dark-mode report built with HTML, CSS and vanilla JavaScript. No dependencies, API keys or backend are required.
 
 ## Run locally
-Open a terminal in this folder and run:
+The project-root `index.html` is the primary report entry point. From the project root, run:
 
 ```powershell
 python -m http.server 8000 --bind 127.0.0.1
 ```
 
-Visit http://127.0.0.1:8000. Alternatively, open index.html directly; a local server is recommended for consistent browser behavior.
+Visit http://127.0.0.1:8000/. You can also open the project-root `index.html` directly in a browser. The nested `business-report/index.html` remains a working alternative. GitHub Pages serves the root entry, which loads the report assets from `business-report/`.
 
 ## Report sections
 Overview, Market, Production, Financials, Compliance, Strategy and Decision. Financials includes editable RPM/views/cost/labor assumptions, YPP toggle, presets, break-even, revenue cases and zero-revenue runway. Source-grounded figures are estimates or assumptions where the research marks them as such; tax and founder take-home are not modeled.
