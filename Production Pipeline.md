@@ -1,0 +1,28 @@
+# Production Pipeline — Quality-first 8–12 minute episodes
+
+Use a four-week cycle, one video/month at launch. A 10-minute finished video is budgeted at 90–105 founder-hours; stage estimates total about 91–99h before schedule variance, with a 100h planning baseline, valued at €25/h for comparison (assumption, not a wage). Direct subscription allocations are already in monthly overhead; do not add them again per video. Establish a shared channel style guide, template package, source log and rights ledger before pilot.
+
+|Stage|Inputs → outputs|Hours|Human gate / failure recovery|
+|---|---|---:|---|
+|1. Topic validation|Audience question + trends/outlier scan → scored brief|4|Both founders select on demand, sourceability, stakes, visuals and legal risk; weak demand or sources: reject topic|
+|2. Research|Brief → source dossier/claim table|12–16|At least 6 primary/authoritative sources; resolve contradictions or narrow the claim|
+|3. Script + fact check|Dossier → 900–1,500-word draft, checked script|11–15|Editor and independent checker separate; unsupported claim removed|
+|4. Storyboard|Checked script → shot list, asset plan|5|Editor maps each claim to visual; simplify if abstract/confusing|
+|5. Narration|Final script → licensed WAV|3|Human checks pace, names, breaths; regenerate only marked lines|
+|6. Visual assets|Storyboard → original charts/illustrations|13|Use licensed AI/image tools only; redraw/replace unclear or rights-uncertain asset|
+|7. Motion graphics|Assets → animated scenes|20|Reusable templates, Blender/Resolve; avoid decorative motion that hides meaning|
+|8. Edit|Scenes + narration → rough/fine cut|8|Cut to story, not a fixed shot quota; re-outline if retention dips|
+|9. Music/sound|Cut → mixed master|4|YouTube Audio Library first; verify attribution/Content ID and replace claims|
+|10. QA|Master → approved export|5|Both founders fact, rights, audio, captions and full playback check; hold on defects|
+|11. Packaging/publish|Video → title, thumbnail, description, upload|4|Truthful promise, cite sources, disclose synthetic/paid promotion when required|
+|12. Learn|48h/7d/28d analytics → next test|2|Compare own baseline by traffic source; change one variable, not chase a single spike. If paid YouTube promotion is tested, log its separate budget and campaign source; do not mix paid views with organic packaging/retention results. Default promotion spend is €0. No fixed CPV/CPM benchmark is assumed; see YouTube Advertising & Operating Costs.md.|
+
+**Hours:** 90–105 typical, 100h budget baseline. **Direct variable cost:** €120 lean / €320 balanced / €700–950 premium, incl. revisions/stock; monthly subscriptions sit in overhead. Use free Resolve, Blender, Inkscape/Krita, Audacity and LibreOffice; buy one TTS plan only after an audio bake-off. Optional tools (Canva, CapCut, After Effects, paid stock) overlap; add only for a documented time or quality gain. Record 2027 vendor quote, commercial rights, renewal date and cancellation terms before use—prices were not verified in the research snapshot.
+
+## Quality gates
+1. Claim table links every factual statement to dated source; distinguish fact/inference. 2. Script has original thesis, coherent stakes and no copied prose. 3. Voice is consistent, intelligible, natural-paced; human proof-listens. 4. Graphics are legible on phone and explain rather than decorate. 5. Every asset, including TTS voice, font, music, stock, generated image and logo, has a rights record showing source, creator, license, commercial use, term, attribution and channel scope. 6. Full export listened to/watched; audio peaks/loudness consistent; 1080p H.264/AAC plays correctly. 7. Title, thumbnail and disclosures are accurate; no harmful synthetic realism or policy issue. Either founder may stop release for safety/rights/factual defect.
+
+## Asset management and recovery
+Store scripts, citations, audio, original art, motion projects and renders in episode folders: 01 brief, 02 sources, 03 script, 04 voice, 05 assets, 06 edit, 07 release, 08 licenses. Use dated versions and a change log; two backups, one separate from main workstation. Maintain asset spreadsheet with file ID, creator/source URL, acquisition date, exact license/receipt, commercial scope, attribution, expiry and video usage. Store AI prompts/models and voice settings where permitted by provider terms. Never assume an AI output is unrestricted or copyright-clear; review provider terms and third-party rights. Failed render: revert to last saved project and re-export; missing source: quarantine asset; claim/Content ID dispute: pause promotion, document license and follow platform/provider process; factual challenge: pin correction, edit/replace and update sources; missed deadline: postpone rather than skip QA. Archive final package and analytics snapshot. Automation may help transcription, rough captions, batch resizing, versioned exports and folder templates; founders retain research judgment, editorial responsibility, rights review, narration approval and release sign-off. Role split is provisional: Attila owns source/script draft and clarity review; Roland owns admin, visual system, edit and upload; both approve facts, rights, and final master.
+
+**Research basis:** official YouTube YPP, monetization, AI disclosure and advertiser-suitability pages cited in AI Video Monetization Plan 2027.md (read 16 Nov 2026). Tool prices/provider licensing and competitor performance are planning variables; verify terms before purchase. See main plan for source URLs, budget and stop/go gates.
